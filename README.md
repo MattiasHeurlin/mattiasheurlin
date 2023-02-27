@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Mattias.heurlin@hotmail.com**
 
-<h3 align="left">My Personal Site: (https://mattiasheurlin.dev/)</h3>
+<h3 align="left">My Personal Site: https://mattiasheurlin.dev/</h3>
 <p align="left">
 </p>
 
