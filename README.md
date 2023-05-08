@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattias Heurlin</h1>
 <h3 align="center">Front-End Student at MedieInstitutet.</h3>
 
-- 🌱 I’m currently learning **Back-End API - Node.js.**
+- 🌱 I’m currently learning **Agile workmethods - Scrum.**
 
 - 📫 How to reach me **Mattias.heurlin@hotmail.com**
 
