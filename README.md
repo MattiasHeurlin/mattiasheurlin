@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattias Heurlin</h1>
 <h3 align="center">Front-End Student at MedieInstitutet.</h3>
 
-- 🌱 I’m currently learning UX and Usability*
+- 🌱 I’m currently working at RedRiver consulting & software
 
 - 📫 How to reach me **Mattias.heurlin@hotmail.com**
 
