@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mattias Heurlin</h1>
-<h3 align="center">Front-End Student at MedieInstitutet.</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently working at RedRiver consulting & software
+- 🌱 I’m currently working Northab Consultancy on internal software
 
 - 📫 How to reach me **Mattias.heurlin@hotmail.com**
 
-<h3 align="left">My Personal Site: https://mattiasheurlin.dev/</h3>
 <p align="left">
 </p>
 
