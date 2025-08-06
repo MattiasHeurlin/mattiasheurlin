@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattias Heurlin</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working at **Northab**
+- 🔭 I’m currently working at **Pinpoint Estimates**
 
 - 📫 How to reach me **Mattias.heurlin@hotmail.com**
 
